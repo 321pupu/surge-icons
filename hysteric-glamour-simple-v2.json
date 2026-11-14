@@ -1,0 +1,13 @@
+{
+  "name": "Hysteric Glamour Simple v2",
+  "icons": [
+    {"name": "Hysteric Glamour Black", "url": "https://raw.githubusercontent.com/321pupu/surge-icons/main/icons/01-hysteric-glamour-black-simple.png"},
+    {"name": "Hysteric Social Club", "url": "https://raw.githubusercontent.com/321pupu/surge-icons/main/icons/02-hysteric-social-club-simple.png"},
+    {"name": "Hysteric Rainbow", "url": "https://raw.githubusercontent.com/321pupu/surge-icons/main/icons/03-hysteric-rainbow-simple.png"},
+    {"name": "Hysteric Bowler Orange", "url": "https://raw.githubusercontent.com/321pupu/surge-icons/main/icons/04-hysteric-bowler-orange-simple.png"},
+    {"name": "Clockwork Kitty", "url": "https://raw.githubusercontent.com/321pupu/surge-icons/main/icons/05-clockwork-kitty-simple.png"},
+    {"name": "Clockwork Orange", "url": "https://raw.githubusercontent.com/321pupu/surge-icons/main/icons/06-clockwork-orange-simple.png"},
+    {"name": "Hysteric Green Smile", "url": "https://raw.githubusercontent.com/321pupu/surge-icons/main/icons/07-hysteric-green-smile-simple.png"},
+    {"name": "Clockwork Kitty Web", "url": "https://raw.githubusercontent.com/321pupu/surge-icons/main/icons/05-clockwork-kitty-web.png"}
+  ]
+}
