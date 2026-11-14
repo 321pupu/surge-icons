@@ -44,6 +44,26 @@
     {
       "name": "Clockwork Orange Red",
       "url": "https://raw.githubusercontent.com/321pupu/surge-icons/main/icons/09-clockwork-orange-red.png"
+    },
+    {
+      "name": "Godfather",
+      "url": "https://raw.githubusercontent.com/321pupu/surge-icons/main/icons/10-godfather.png"
+    },
+    {
+      "name": "Joker",
+      "url": "https://raw.githubusercontent.com/321pupu/surge-icons/main/icons/11-joker.png"
+    },
+    {
+      "name": "Darth Vader",
+      "url": "https://raw.githubusercontent.com/321pupu/surge-icons/main/icons/12-darth-vader.png"
+    },
+    {
+      "name": "Hysteric AI Black",
+      "url": "https://raw.githubusercontent.com/321pupu/surge-icons/main/icons/13-hysteric-ai-black.png"
+    },
+    {
+      "name": "Hysteric AI Orange",
+      "url": "https://raw.githubusercontent.com/321pupu/surge-icons/main/icons/14-hysteric-ai-orange.png"
     }
   ]
 }
