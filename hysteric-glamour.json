@@ -1,9 +1,9 @@
 {
   "name": "Hysteric Glamour",
   "icons": [
-    {"name": "Hysteric Glamour Black", "url": "https://raw.githubusercontent.com/321pupu/surge-icons/main/icons/01-hysteric-glamour-black-large.png"},
-    {"name": "Hysteric Social Club", "url": "https://raw.githubusercontent.com/321pupu/surge-icons/main/icons/02-hysteric-social-club-large.png"},
-    {"name": "Hysteric Rainbow", "url": "https://raw.githubusercontent.com/321pupu/surge-icons/main/icons/03-hysteric-rainbow-large.png"},
-    {"name": "Hysteric Bowler Orange", "url": "https://raw.githubusercontent.com/321pupu/surge-icons/main/icons/04-hysteric-bowler-orange-large.png"}
+    {"name": "Hysteric Glamour Black", "url": "https://raw.githubusercontent.com/321pupu/surge-icons/main/icons/01-hysteric-glamour-black-head.png"},
+    {"name": "Hysteric Social Club", "url": "https://raw.githubusercontent.com/321pupu/surge-icons/main/icons/02-hysteric-social-club-head.png"},
+    {"name": "Hysteric Rainbow", "url": "https://raw.githubusercontent.com/321pupu/surge-icons/main/icons/03-hysteric-rainbow-head.png"},
+    {"name": "Hysteric Bowler Orange", "url": "https://raw.githubusercontent.com/321pupu/surge-icons/main/icons/04-hysteric-bowler-orange-head.png"}
   ]
 }
